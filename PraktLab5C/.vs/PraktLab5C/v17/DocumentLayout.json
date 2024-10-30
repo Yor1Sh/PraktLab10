@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\VisualStudioWorks\\PraktLab5C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5A687F-32E3-4FD5-A697-B519677E3195}|PraktLab5C.vcxproj|H:\\VisualStudioWorks\\PraktLab5C\\PraktLab5C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C5A687F-32E3-4FD5-A697-B519677E3195}|PraktLab5C.vcxproj|solutionrelative:PraktLab5C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PraktLab5C.cpp",
+              "DocumentMoniker": "H:\\VisualStudioWorks\\PraktLab5C\\PraktLab5C.cpp",
+              "RelativeDocumentMoniker": "PraktLab5C.cpp",
+              "ToolTip": "H:\\VisualStudioWorks\\PraktLab5C\\PraktLab5C.cpp",
+              "RelativeToolTip": "PraktLab5C.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T10:25:54.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
